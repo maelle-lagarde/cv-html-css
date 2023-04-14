@@ -180,6 +180,13 @@ section {
 .button1 {
     margin-top: 40px;
     justify-content: center;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.button {
+    margin-right: 40px;
 }
 
 hr.solid {
